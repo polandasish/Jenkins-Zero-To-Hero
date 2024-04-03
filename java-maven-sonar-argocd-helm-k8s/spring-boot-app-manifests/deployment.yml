@@ -18,4 +18,4 @@ spec:
       - name: spring-boot-app
         image: polandasish/springapp:v3
         ports:
-        - containerPort: 80
+        - containerPort: 8080
