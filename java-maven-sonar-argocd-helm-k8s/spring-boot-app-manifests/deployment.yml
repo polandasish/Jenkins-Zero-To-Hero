@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: polandasish/springapp:v3
+        image: polandasish/springapp:v1
         ports:
         - containerPort: 8080
